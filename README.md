@@ -1,5 +1,3 @@
 # adblock-extension
 <!-- read to me  -- it works ! -->
-
-# adblock-extension
-# adblock-extension
+<!-- full cred: https://github.com/yakkomajuri/linkedin-adblocker -->
